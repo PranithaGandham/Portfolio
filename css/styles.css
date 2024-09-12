@@ -469,7 +469,8 @@ button:hover a {
     .section-hero {
         
         margin-top: 30vh;
-        margin-left: 50px;
+        width: 80%;
+        margin: auto;
     }
     .section-hero h1 {
         font-size: 4rem;
