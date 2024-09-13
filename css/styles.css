@@ -397,7 +397,7 @@ body {
 }
 .section-about-details {
     display: flex;
-    padding: 0px 90px;
+    /* padding: 0px 90px; */
     align-items: center;
 }
 .section-about-image img {
@@ -599,6 +599,9 @@ button:hover a {
         margin-bottom: 40px;
     }
     /* section: about */
+
+
+
 }
 .social-links {
     display: flex;
